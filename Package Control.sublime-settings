@@ -17,6 +17,8 @@
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-stylelint"
 	]
 }
